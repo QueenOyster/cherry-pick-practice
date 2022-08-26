@@ -1,5 +1,6 @@
 AA
-BB
+Bb2
 CC
-DD
+Dd
+new
 EE
